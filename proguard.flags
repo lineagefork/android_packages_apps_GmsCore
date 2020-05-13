@@ -2,6 +2,7 @@
 #-libraryjar ../unifiednlp-compat/build/classes/java/main
 -dontwarn java.awt.**
 -dontwarn javax.annotation.**
+-dontwarn java.lang.invoke.StringConcatFactory
 
 # External libs
 -dontwarn okio.**
