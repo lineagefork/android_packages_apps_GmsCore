@@ -35,7 +35,7 @@ allprojects {
     ext.slf4jVersion = "1.7.25"
 }
 
-def androidCompileSdk() { return 28 }
+def androidCompileSdk() { return 29 }
 
 def androidTargetSdk() { return 29 }
 
